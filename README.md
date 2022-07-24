@@ -1,2 +1,3 @@
 # Sorting-Visualizer
-Visualize sorting algorithms. You can access the website here: 
+This project visualizes sorting algorithms.  
+You can access it here: [https://bhushan-srivastava.github.io/Sorting-Visualizer/](https://bhushan-srivastava.github.io/Sorting-Visualizer/)
